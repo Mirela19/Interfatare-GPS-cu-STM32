@@ -1,1 +1,2 @@
-# Obstacle-Avoiding-Robot-using-PIC-Microcontroller
+# Obstacle Avoiding Robot
+## Descrierea proiectului
