@@ -7,7 +7,7 @@ Proiectul presupune o interfațare a unui modul GPS cu microcontrolerul STM32F10
 # Componente utilizate
 - microcontroller STM32F103C8 
 - modul GPS
-- 16x2 LCD display
+- afișaj LCD 16x2
 - breadboard
 - fire 
 
