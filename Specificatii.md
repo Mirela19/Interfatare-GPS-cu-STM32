@@ -4,14 +4,14 @@ Acești sateliți transmit trei biți de informații - numărul satelitului, poz
 
 Proiectul presupune o interfațare a unui modul GPS cu microcontrolerul STM32F103C8 pentru a găsi coordonatele locației și a le afișa pe un afișaj LCD 16x2.
 
-# Componente utilizate
+## Componente utilizate
 - microcontroller STM32F103C8 
 - modul GPS
 - afișaj LCD 16x2
 - breadboard
 - fire 
 
-# Modulul GPS
+### Modulul GPS
 
 Este un modul GPS GY-NEO6MV2 XM37-1612. Acest modul GPS are patru pini +5V, GND, TXD și RXD. Acesta comunică folosind pinii seriali și poate fi ușor interfațat cu portul serial al STM32F103C8.
 
