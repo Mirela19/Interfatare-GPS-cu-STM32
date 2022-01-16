@@ -1,3 +1,4 @@
+# Descrierea proiectului
 Sistemul de poziționare globală (GPS) este un sistem de navigație bazat pe satelit, care constă din 24 de sateliți în orbită, fiecare dintre aceștia efectuând două circuite în jurul Pământului la fiecare 24 de ore.
 Acești sateliți transmit trei biți de informații - numărul satelitului, poziția acestuia în spațiu și ora în care este trimisă informația. Aceste semnale sunt preluate de receptorul GPS, care utilizează aceste informații pentru a calcula distanța dintre acesta și sateliții GPS. Cu semnale de la trei sau mai mulți sateliți, un receptor GPS își poate triangula locația pe sol (adică, longitudine și latitudine) față de poziția cunoscută a sateliților.
 
