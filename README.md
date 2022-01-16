@@ -1,4 +1,5 @@
-# **Interfatare GPS cu STM32F103C8** ### ~ *Plachta Andreea-Mirela*
+# **Interfațare GPS cu STM32F103C8**
+### ~ *Plachta Andreea-Mirela*
 ## Descrierea proiectului
 
 **GPS** (sau Global Positioning System) este folosit pentru a detecta latitudinea și longitudinea oricărei locații de pe Pământ, cu ora UTC exactă (Universal Time Coordinated).
