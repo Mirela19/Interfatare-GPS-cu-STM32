@@ -30,11 +30,12 @@ $GPGGA,HHMMSS.SSS,latitudine,N,longitudine,E,FQ,NOS,HDP,altitudine,M,înălțime
 ![gps](https://user-images.githubusercontent.com/56684731/149729951-bb262dc6-69b6-4a47-a12a-f46426e7d2ae.PNG)
 
 ## Schema electrică 
+![Schema](https://user-images.githubusercontent.com/56684731/149729048-56066f0b-2736-4593-a9a5-95137395c541.PNG)
 
 ## Conexiuni de circuit între modulul GPS și STM32F103C8
-
+![gps si stm32](https://user-images.githubusercontent.com/56684731/149732156-90d82312-86b1-4826-bf1f-58281e5f8c59.PNG)
 ## Conexiuni între LCD 16x2 și STM32F103C8
-
+![lcd](https://user-images.githubusercontent.com/56684731/149732130-2f3595a6-16de-4110-b5f2-e9cb8a6a6de8.PNG)
 
 ## Găsirea latitudinii și a longitudinei cu GPS și STM32
 
