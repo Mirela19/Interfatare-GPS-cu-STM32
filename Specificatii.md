@@ -25,3 +25,7 @@ $GPGGA,104534.000,7791.0381,N,06727.4434,E,1,08,0.9,510.4,M,43.9,M,,*47
 $GPGGA,HHMMSS.SSS,latitudine,N,longitudine,E,FQ,NOS,HDP,altitudine,M,înălțime,M,,date de control
 
 În proiectul curent am folosit o bibliotecă GPS TinyGPSPlus care extrage toate informațiile necesare din propoziția NMEA și pentrn care trebuie doar să scriem o linie de cod pentru a obține latitudinea și longitudinea.
+
+
+
+![Schema](https://user-images.githubusercontent.com/56684731/149729048-56066f0b-2736-4593-a9a5-95137395c541.PNG)
