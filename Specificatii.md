@@ -27,5 +27,21 @@ $GPGGA,HHMMSS.SSS,latitudine,N,longitudine,E,FQ,NOS,HDP,altitudine,M,înălțime
 În proiectul curent am folosit o bibliotecă GPS TinyGPSPlus care extrage toate informațiile necesare din propoziția NMEA și pentrn care trebuie doar să scriem o linie de cod pentru a obține latitudinea și longitudinea.
 
 
+![gps](https://user-images.githubusercontent.com/56684731/149729951-bb262dc6-69b6-4a47-a12a-f46426e7d2ae.PNG)
 
-![Schema](https://user-images.githubusercontent.com/56684731/149729048-56066f0b-2736-4593-a9a5-95137395c541.PNG)
+## Schema electrică 
+
+## Conexiuni de circuit între modulul GPS și STM32F103C8
+
+## Conexiuni între LCD 16x2 și STM32F103C8
+
+
+## Găsirea latitudinii și a longitudinei cu GPS și STM32
+
+După construirea configurației și încărcarea codului,trebuie plasat modulul GPS într-o zonă deschisă pentru a primi semnalul rapid. Uneori este nevoie de câteva minute pentru a primi semnalul, așa că trebuie așteptat ceva timp. LED-ul va începe să clipească în modulul GPS când începe să primească semnal și coordonatele locației vor fi afișate pe afișajul LCD.
+
+Putem verifica latitudinea și longitudinea locației utilizând Google maps.
+
+
+
+
