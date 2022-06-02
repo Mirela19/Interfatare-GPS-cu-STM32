@@ -71,3 +71,4 @@ static void GPSDelay(unsigned long ms)
     gps.encode(Serial1.read());
   } while (millis() - start < ms);
 }
+
