@@ -46,3 +46,4 @@ Putem verifica latitudinea și longitudinea locației utilizând Google maps.
 
 
 
+
