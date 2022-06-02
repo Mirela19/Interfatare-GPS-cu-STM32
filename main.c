@@ -13,7 +13,7 @@ void setup()
   lcd.begin(16,2);            
   lcd.print("Proiect");
   lcd.setCursor(0,1);
-  lcd.print("GPS CU STM32");
+  lcd.print("GPS CU STM32");  //transmitere mesaj
   delay(4000);
   lcd.clear();      
 }
