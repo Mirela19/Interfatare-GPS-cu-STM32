@@ -28,6 +28,7 @@ $GPGGA,HHMMSS.SSS,latitudine,N,longitudine,E,FQ,NOS,HDP,altitudine,M,înălțime
 
 
 ![gps](https://user-images.githubusercontent.com/56684731/149729951-bb262dc6-69b6-4a47-a12a-f46426e7d2ae.PNG)
+![gps 2022-06-02 at 11 09 07 AM](https://user-images.githubusercontent.com/56684731/171585481-00637785-5db8-4437-b7c7-52ab22c7202d.jpeg)
 
 ## Schema electrică 
 ![Schema](https://user-images.githubusercontent.com/56684731/149729048-56066f0b-2736-4593-a9a5-95137395c541.PNG)
