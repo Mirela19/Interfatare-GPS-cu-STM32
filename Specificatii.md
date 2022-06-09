@@ -45,6 +45,23 @@ După construirea configurației și încărcarea codului,trebuie plasat modulul
 Putem verifica latitudinea și longitudinea locației utilizând Google maps.
 
 
+## Realizare proiect etape
+
+Am utilizat UART pentru transmiterea datelor, de asemenea, lungimea datelor este necunoscută. Proiectul foloseste UART Ring Buffer. 
+Modulul GPS Transmite datele prin UART în format NMEA. 
+
+
+
+Pinul Tx al modulului (Neo 6M) este conectat la PB7 (pinul Rx) al controlerului.
+Trebuie doar să primim date, prin urmare, un pin este suficient.
+PB8 și PB9 ale controlerului sunt conectate la pinii SCL și SDA ai LCD1602.
+Modulul și LCD-ul trebuie să fie alimentate cu sursa externă de 5V, deoarece 5V Bluepill-ului nu va fi suficient pentru ambele.
+
+Trebuie să folosim biblioteca UART Ring Buffer pentru a primi date de lungime necunoscută. De aceea, Biblioteca Ring Buffer va fi inclusă în cod.
+
+Împreună cu Ring buffer, am scris și o bibliotecă pentru a decoda datele NMEA și trebuie să le includem în proiectul nostru. 
+Structura proiectului este cea prezentată mai jos.
+
 
 
 
